@@ -11,7 +11,7 @@ Estudante de Engenharia de Computação no Centro Universitário Facens (6º sem
     <a href="https://github.com/canaveze?tab=repositories">
         <img alt="Repositórios" src="https://img.shields.io/badge/Repositórios-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://trailblazer.me/id/canaveze](https://www.salesforce.com/trailblazer/zhjnki29kjr4kq5b8h">
+    <a href="https://www.salesforce.com/trailblazer/zhjnki29kjr4kq5b8h">
         <img alt="Trailhead" src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
     </a>
 </p>
