@@ -24,8 +24,8 @@ Estudante de Engenharia de Computação no Centro Universitário Facens (6º sem
     <img alt="Salesforce" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
     <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img alt="Power Platform" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_platform_icon.svg"/>
-    <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img alt="Power Apps" height="40" src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000"/>
+    <img alt="JavaScript" height="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
 </div>
 
 <p align="center">
