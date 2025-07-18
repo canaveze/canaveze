@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/seu-linkedin"> Beatriz Canaveze | Engenheira da Coputação
+# Beatriz Canaveze | Engenheira da Coputação
 
 **`Engenheira de Computação | Salesforce Developer | Power Platform Specialist`**
 
