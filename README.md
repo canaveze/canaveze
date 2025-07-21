@@ -1,6 +1,6 @@
-# Beatriz Canaveze | Engenheira da Coputação
+# Beatriz Canaveze | Engenheira da Computação
 
-**`Engenheira de Computação | Salesforce Developer | Power Platform Specialist`**
+**`Engenheira da Computação | Salesforce Developer/Architect | Power Platform Specialist`**
 
 Estudante de Engenharia de Computação no Centro Universitário Facens (6º semestre) | Estagiária na Chemyunion | Apaixonada por tecnologia com impacto social | Experiência em React, Node, Salesforce e projetos de acessibilidade
 
