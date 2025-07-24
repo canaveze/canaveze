@@ -29,6 +29,7 @@ Estudante de Engenharia de Computação no Centro Universitário Facens (6º sem
     <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img alt="Power Apps" height="40" src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000"/>
     <img alt="JavaScript" height="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
+    <img alt="JavaScript" height="40" src="https://github.com/user-attachments/assets/9ec3630d-98fa-430a-b072-c7379cb0dbb0"/>
 </div>
 
 <p align="center">
