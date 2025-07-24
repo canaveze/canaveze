@@ -14,9 +14,6 @@ Estudante de Engenharia de Computação no Centro Universitário Facens (6º sem
     <a href="https://www.salesforce.com/trailblazer/zhjnki29kjr4kq5b8h">
         <img alt="Trailhead" src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
     </a>
-    <a href="https://www.salesforce.com/trailblazer/zhjnki29kjr4kq5b8h">
-        <img alt="Trailhead" src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-    </a>
 </p>
 
 ---
