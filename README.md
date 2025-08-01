@@ -49,8 +49,11 @@ Estudante de Engenharia de Computação no Centro Universitário Facens (6º sem
     <img alt="github contribution grid snake animation" src="./github-user-contribution-light.svg"/>
   </picture>
 </div>
-
+<div align="center">
 <br><br>
+![snake gif](https://github.com/canaveze/canaveze/blob/output/github-snake-light.svg)
+<br><br>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=canaveze&label=Profile+Views&color=blueviolet" alt="Visualizações do perfil"/>
