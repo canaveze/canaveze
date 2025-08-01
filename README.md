@@ -40,19 +40,11 @@ Estudante de Engenharia de Computação no Centro Universitário Facens (6º sem
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canaveze&title_color=A97155&text_color=7F7C82&border_color=A97155&bg_color=FAF3F0&locale=pt-BR&border_radius=10&size_weight=0.5&count_weight=0.5&layout=compact"/>
 </div>
 
-<br><br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./github-user-contribution-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./github-user-contribution-light.svg"/>
-    <img alt="github contribution grid snake animation" src="./github-user-contribution-light.svg"/>
-  </picture>
-</div>
-<div align="center">
-<br><br>
-![snake gif](https://github.com/canaveze/canaveze/blob/output/github-snake-light.svg)
-<br><br>
+
+![snake gif](https://github.com/canaveze/canaveze/blob/output/github-snake.svg)
+
 </div>
 
 <p align="center">
