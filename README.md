@@ -34,6 +34,18 @@ Computer Engineering Student at Facens University Center (6th semester) | Intern
   <img alt="JavaScript" height="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
   &nbsp;&nbsp;
   <img alt="Custom JS Icon" height="40" src="https://github.com/user-attachments/assets/b35cbf7b-063b-4d3f-9f61-c62250abf3f5"/>
+  &nbsp;&nbsp;
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 </div>
 
 <br><br>
