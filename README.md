@@ -52,9 +52,6 @@ Estudante de Engenharia de Computação no Centro Universitário Facens (6º sem
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=canaveze&label=Profile+Views&color=blueviolet" alt="Visualizações do perfil"/>
-</p>
 
 
 
