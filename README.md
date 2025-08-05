@@ -37,7 +37,12 @@ Estudante de Engenharia de Computação no Centro Universitário Facens (6º sem
 <br><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canaveze&title_color=A97155&text_color=7F7C82&border_color=A97155&bg_color=FAF3F0&locale=pt-BR&border_radius=10&size_weight=0.5&count_weight=0.5&layout=compact"/>
+  <a href="https://github.com/canaveze">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canaveze&hide_border=true&bg_color=00000000&locale=pt-BR&title_color=A62E4F&text_color=4C1726&langs_count=6"/>
+  </a>
+  <a href="https://github.com/canaveze">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=canaveze&show_icons=true&hide_border=true&bg_color=00000000&title_color=A62E4F&text_color=4C1726&locale=pt-BR&theme=dark"/>
+  </a>
 </div>
 
 
