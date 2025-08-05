@@ -1,8 +1,10 @@
-# Beatriz Canaveze | Engenheira da Computação
+# Beatriz Canaveze
 
-**`Engenheira da Computação | Salesforce Developer/Architect | Power Platform Specialist`**
+**`Computer Engineering | Salesforce Developer/Architect | Power Platform Specialist`**
 
 Estudante de Engenharia de Computação no Centro Universitário Facens (6º semestre) | Estagiária na Chemyunion | Apaixonada por tecnologia com impacto social | Experiência em React, Node, Salesforce e projetos de acessibilidade
+
+Computer Engineering Student at Facens University Center (6th semester) | Intern at Chemyunion | Passionate about socially impactful technology | Experience in React, Node, Salesforce, and accessibility projects
 
 <p align="left">
     <a href="https://www.linkedin.com/in/beatriz-canaveze-fontolan-soares-21631b266/">
