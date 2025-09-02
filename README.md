@@ -20,7 +20,7 @@ Computer Engineering Student at Facens University Center (6th semester) | Intern
 
 ---
 
-## 🚀 Tecnologias Principais
+## Tecnologias Principais
 
 <div align="center">
   <img alt="Salesforce" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
